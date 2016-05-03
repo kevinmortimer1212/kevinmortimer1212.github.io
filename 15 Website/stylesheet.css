@@ -1,0 +1,113 @@
+body{
+	background-color: #e3d755;
+	margin: 0; 
+	height: 100%;
+	width: 100%;
+	background-image: url(backgroundtile.png);
+	background-repeat: repeat-x repeat-y;
+	
+
+}
+
+.homebody{ background-repeat: none;
+			background-image: none;
+
+}
+
+#homelogo{
+position: absolute;
+margin-left: -50px;
+margin-top: -200px;
+
+}
+
+.homebar{
+	position: relative;
+	margin-left: 120px;
+	padding-top: 200px;
+	z-index: -1;
+}
+
+.companyicon{
+	position: absolute;
+	margin-left: 330px;
+	margin-top: 210px;
+}
+
+.abouticon{
+	position: absolute;
+	margin-left: 150px;
+	margin-top: 455px;
+}
+
+.company{
+	position: absolute;
+	margin-top: 300px;
+	margin-left: 170px;
+}
+
+.about{
+	position: absolute;
+	margin-top: 525px;
+	margin-left: 320px;
+}
+
+.logo{
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+
+.welcomeyes{
+	position: absolute;
+	top: 450px;
+	left: 200px;
+	bottom: 200px;
+}
+
+.welcomeno{
+	position: absolute;
+	top: 450px;
+	left: 400px;
+	bottom:200px;
+}
+
+a{
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+
+}
+
+.appicon{
+	position: absolute;
+	margin-top: 670px;
+	margin-left: 360px;
+}
+
+.app{
+	position: absolute;
+	margin-left: 220px;
+	margin-top: 730px;
+}
+
+.joinicon{
+	position: absolute;
+	margin-left: 127px;
+	margin-top: 920px;
+}
+
+.join{
+	position: absolute;
+	margin-left: 325px;
+	margin-top: 955px;
+}
+
+a:hover{
+	color: #e3d755;
+}
+
+a:visited{
+	color: white;
+}
